@@ -50,4 +50,4 @@ print(min(Numbers))
 #sum=auroisma
 print(sum(Numbers))
 
-#print(Numbers[2])
+print(Numbers[2])
